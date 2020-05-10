@@ -9,8 +9,7 @@ def toadstool
   puts status
 end
 
-def all_phrases (link)
+def all_phrases(link)
   mario 
   toadstool 
-   
-end 
+ end 
